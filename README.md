@@ -18,7 +18,7 @@ I'm still in the early stages of my programming journey, learning how to use **G
 
 If you're interested in collaborating, brainstorming cool code ideas, or sharing knowledge, feel free to reach out—I'm always up for it!
 
-📬 **Let's build something amazing together!** 🚀
+📬 **My very own creative space and if you're down we can build something amazing together!** 🚀
 
 <!---
 Avocado-Ahad/Avocado-Ahad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
